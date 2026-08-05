@@ -72,6 +72,3 @@ Repository bao gồm các nội dung chính sau:
 
 ---
 
-## Giấy phép
-
-Repository này được xây dựng nhằm mục đích học tập, nghiên cứu và báo cáo kết quả trong chương trình **AWS Workforce Bootcamp – First Cloud AI Journey (FCAJ)**.
